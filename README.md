@@ -1,7 +1,7 @@
 # ECG Signal Processing using MATLAB
 ![Demonstration](assets/demo.gif)
 
-This repo is a part of an [Electrocardiograph (ECG) Circuit Design and Software-based Processing using MATLAB](https://drive.google.com/file/d/1FEdh7YL6a9QvQ47rRdb2RFLzPfmwScsg/view?usp=sharing) system utilizing the **MATLAB** environment. The code captures ECG signals directly from an audio input (such as a microphone or line-in) and processes them in real-time.
+This repo is a part of an [Electrocardiograph (ECG) Circuit Design and Software-based Processing](https://drive.google.com/file/d/1FEdh7YL6a9QvQ47rRdb2RFLzPfmwScsg/view?usp=sharing) system utilizing the **MATLAB** environment. The code captures ECG signals directly from an audio input (such as a microphone or line-in) and processes them in real-time.
 
 It employs Digital Signal Processing (DSP) techniques to clean the signal, detect peaks, and calculate essential vital indicators such as the Heart Rate in Beats Per Minute (BPM) and the Signal-to-Noise Ratio (SNR) both before and after filtering.
 
