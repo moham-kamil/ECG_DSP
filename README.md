@@ -1,6 +1,7 @@
 # ECG Signal Processing using MATLAB
 
 ## Overview
+![Demonstration](assets/demo.gif)
 
 This project is a component of an **Electrocardiograph (ECG) Circuit Design and Software-based Processing** system utilizing the **MATLAB** environment. The code captures ECG signals directly from an audio input (such as a microphone or line-in) and processes them in real-time.
 
